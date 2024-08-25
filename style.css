@@ -1,0 +1,39 @@
+
+
+.col-1{
+    height: 40px;
+    padding: 4px 0px;
+    border: 1px solid black;
+
+}
+.col-2{
+    height: 40px;
+    padding: 4px 0px;
+}
+.dropdown-menu a.nav-link{
+    border: none;
+    border-radius: 0px;
+  }
+  .dropdown-menu a.nav-link:hover{
+    background-color: violet !important;
+    color: white !important;
+  }
+  .dropdown-menu{
+    padding: 0px !important;
+  }
+  .my-menu li a.nav-link.active{
+    color: red !important;
+    border-top-color: red !important ; 
+    border-left-color: red !important;
+    border-right-color: red !important;
+  }
+  #heart{
+    color: red;
+    font-size: 20px;
+  }
+  .col-md-4{
+    border: 1px solid  black;
+    padding: 10px;
+
+  }
+  
